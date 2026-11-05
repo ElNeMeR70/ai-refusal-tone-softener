@@ -1,0 +1,4 @@
+[project]
+name = "ai-refusal-tone-softener"
+version = "0.1.0"
+description = "Converts preachy and defensive refusals ('As an AI I cannot...') into constructive, professional explanations."
